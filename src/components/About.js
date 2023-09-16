@@ -35,7 +35,7 @@ const About = () => {
           >
             <h2 className="h2 text-accent"> About me </h2>
             <h3 className="h3 mb-4">
-              I'm a Frilans and Mentor Front-end Developer with over 1 years of
+              I'm a Freelance and Mentor Front-end Developer with over 1 years of
               experiance
             </h3>
             <p className="mb-6">
